@@ -1,0 +1,1 @@
+#Intialize your application using npm with npm install & npm start
